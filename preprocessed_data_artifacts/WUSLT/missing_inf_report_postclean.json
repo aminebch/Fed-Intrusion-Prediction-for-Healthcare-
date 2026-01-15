@@ -1,0 +1,272 @@
+{
+  "SrcAddr": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DstAddr": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SrcBytes": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DstBytes": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SrcLoad": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DstLoad": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SrcGap": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DstGap": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SIntPkt": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DIntPkt": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SIntPktAct": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DIntPktAct": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SrcJitter": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DstJitter": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "sMaxPktSz": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "dMaxPktSz": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "sMinPktSz": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "dMinPktSz": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Dur": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Trans": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "TotPkts": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "TotBytes": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Load": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Loss": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "pLoss": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "pSrcLoss": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "pDstLoss": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Rate": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SrcMac": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DstMac": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Packet_num": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Temp": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SpO2": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Pulse_Rate": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "SYS": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "DIA": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Heart_rate": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Resp_Rate": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "ST": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Attack Category": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Label": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "_orig_idx": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Label_raw_file": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "row_uid": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Split_hint": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Label_binary": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Label_raw": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Sport_bucket_well_known": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Sport_bucket_registered": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Sport_bucket_ephemeral": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Dport_bucket_well_known": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Dport_bucket_registered": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "Dport_bucket_ephemeral": {
+    "missing": 0,
+    "pos_inf": 0,
+    "neg_inf": 0
+  },
+  "content_hash": {
+    "missing": 16318,
+    "pos_inf": 0,
+    "neg_inf": 0
+  }
+}
